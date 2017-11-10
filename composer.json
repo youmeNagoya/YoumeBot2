@@ -1,0 +1,7 @@
+{
+    "name": "youme/jigumo",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {}
+}
